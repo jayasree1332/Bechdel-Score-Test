@@ -29,6 +29,17 @@ Sources:
 
 Did some analysis and visualisation of the plots. 
 
+Some interesting data findings include:
+
+  * Movies that fail the Bechdel test tend to have higher IMDB ratings.
+  * Over the years, there has been an increasing number of movies that pass the Bechdel test.
+  * Movies with female directors have higher Bechdel scores.
+  * There is no clear correlation between the budget or revenue of a movie and its Bechdel score.
+
+Of course, this analysis was only done with the data I gathered from three places, and might not represent the entire population of movies out there.
+
+Furthermore, there may have been other variables present that affected the outcome of this analysis, and it might be a good idea to experiment with data from a couple of other places before coming to a conclusion.
+
 Finally, I would like to mention that the Bechdel test is not necessarily the best benchmark to measure female representation in movies. 
 It does not take into consideration how well written a female character is, neither does it measure meaningful depth of character.
 
