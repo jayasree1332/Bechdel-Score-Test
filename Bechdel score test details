@@ -1,10 +1,11 @@
 Bechdel test for the representation of women in film industry:
 
-Data analysis of gender disparity in Hollywood The Bechdel test is named after cartoonist Alison Bechdel, who introduced the idea in a comic strip in the year 1985. To pass the test, a story needs to have:
+Data analysis of gender disparity in Hollywood The Bechdel test is named after cartoonist Alison Bechdel, 
+who introduced the idea in a comic strip in the year 1985. To pass the test, a story needs to have:
 
-    At least two women
-    The women need to talk to each other
-    They need to talk to each other about something other than a man
+   * At least two women
+   * The women need to talk to each other
+   * They need to talk to each other about something other than a man
 
 Apparently, there were a large number of movies that did not fulfill the requirements to pass the Bechdel test
 
@@ -26,6 +27,9 @@ Sources:
     A different dataset called movies.csv from ggplot2, and merge it with exsiting df.
     A different movielatest.csv dataset from Kaggle.
 
-Did some analysis and visualisation of the plots. Finally, I would like to mention that the Bechdel test is not necessarily the best benchmark to measure female representation in movies. It does not take into consideration how well written a female character is, neither does it measure meaningful depth of character.
+Did some analysis and visualisation of the plots. 
+
+Finally, I would like to mention that the Bechdel test is not necessarily the best benchmark to measure female representation in movies. 
+It does not take into consideration how well written a female character is, neither does it measure meaningful depth of character.
 
 However, it is one of the most well-known metrics used to expose gender bias and is the only test we have this kind of data on.
