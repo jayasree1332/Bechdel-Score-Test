@@ -1,5 +1,6 @@
 # Bechdel-Score-Test
 
+ata analysis of gender disparity in Hollywood
 
 The Data Question: My aim was to collect data from various different sources, and answer the following questions about the Bechdel test:
 
